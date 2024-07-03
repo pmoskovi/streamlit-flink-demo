@@ -98,6 +98,7 @@ _It may take a few minutes for the pool to enter the Running state._
     ```
 
 - Fill in the values in both files. You can find the values in the Confluent Cloud UI.
+  - Environments > streamlit-flink-kafka-demo > streamlit-flink-kafka-cluster > Cluster Overview > Cluster Settings > General > Endpoints > Bootstrap server
 
 - Install JR:
 
