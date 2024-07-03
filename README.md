@@ -82,7 +82,7 @@ key list. Save the Schema Registry key and secret to a secure location, you'll n
 
 *Important*
 _This region must the same region as the one in which you created your cluster, that is, AWS's `us-east-2`_
-- In the 'Pool' name textbox, enter “streamlit-flink-kafka-compute-pool”.
+- In the 'Pool' name textbox, enter “streamlit-flink-kafka-pool”.
 - In the 'Max CFUs' dropdown, select 10.
 - Click 'Continue', and on the 'Review and create' page, click 'Finish'.
 
